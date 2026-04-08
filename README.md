@@ -7,7 +7,7 @@
 The Pizza Sales Analysis project is designed to analyse transactional sales data from a pizza store. The goal is to identify key business insights, trends, and KPIs that will help management make informed decisions related to sales, marketing, and operations. 
  
 Business Objectives 
-Identify overall revenue, total pizzas sold, and total number of orders. 
+Identify overall revenue,total pizzas sold, and total number of orders. 
 Determine sales distribution by pizza category, size, and type. 
 Analyse time-based trends in sales (daily, monthly, and yearly). 
 Highlight best-selling and least-selling pizzas by revenue and quantity. 
@@ -17,6 +17,7 @@ Provide visualization dashboards for effective decision-making.
 Data Source & Description 
 Dataset: pizza_sales.csv 
 Key fields: 
+
 order_id → Unique identifier for each order 
 pizza_id → Unique identifier for each pizza 
 pizza_name → Name of the pizza sold 
@@ -28,21 +29,29 @@ pizza_category, pizza_size → Attributes for pizza classification
 
 
 Key Performance Indicators (KPIs) 
+
 Total Revenue = Sum of total_price 
+
 Total Pizzas Sold = Sum of quantity 
+
 Total Orders = Count of unique order_id 
+
 Average Order Value (AOV) = Total Revenue ÷ Total Orders 
+
 Average Pizza per Order = Total Pizzas Sold ÷ Total Orders 
  
 Analysis & Visualizations 
 Ingredient Analysis 
+
 The pizza business aims to understand which ingredients are most frequently used across different pizza types. By identifying the most common ingredients, the store can 
  
 Daily Trend 
+
 A line/bar chart showing sales by day of the week. 
 Useful for staffing and operations planning. 
  
 Hourly Trend 
+
 A line/bar chart showing sales by hour of the day. 
 Useful for staffing, ingredients, customer rush and operations planning 
  
@@ -52,6 +61,7 @@ Helps track seasonality and identify peak sales months.
 Summer months show higher sales due to promotional campaigns. 
  
 % of Sales by Category 
+
 A bar chart representing revenue and quantity sold for each pizza category (Classic, Supreme, Veggie, Chicken). 
 Helps identify customer preferences. 
 Classic pizzas dominate sales, while Veggie has lower demand. 
