@@ -1,0 +1,164 @@
+PS C:\Users\pinki\OneDrive\Desktop\Data_science(infosis)\Data\Data> git init
+Initialized empty Git repository in C:/Users/pinki/OneDrive/Desktop/Data_science(infosis)/Data/Data/.git/
+PS C:\Users\pinki\OneDrive\Desktop\Data_science(infosis)\Data\Data> git add README.md
+fatal: pathspec 'README.md' did not match any files
+PS C:\Users\pinki\OneDrive\Desktop\Data_science(infosis)\Data\Data> git commit -m "first commit"
+>> 
+On branch master
+
+Initial commit
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        Bigmart Sales Data.csv
+        Car_Sales.csv
+        Cardiovascular_Disease.csv
+        EMPLOYEES.xlsx
+        Employees.csv
+        Fraud Detection Dataset.csv
+        HR_Dataset Refresh.csv
+        Mall_Customers.csv
+        financial_loan_data.xlsx
+        gold_price_data.csv
+        heart_disease_prediction.csv
+        insurance.csv
+        pizza_sales.csv
+        pizza_sales_analysis.ipynb
+        student.csv
+        temperature.csv
+
+nothing added to commit but untracked files present (use "git add" to track)
+PS C:\Users\pinki\OneDrive\Desktop\Data_science(infosis)\Data\Data> git branch -M main
+PS C:\Users\pinki\OneDrive\Desktop\Data_science(infosis)\Data\Data> git remote add origin https://github.com/pinkimahato9814-afk/Pizza_sales_analysis.git
+PS C:\Users\pinki\OneDrive\Desktop\Data_science(infosis)\Data\Data> git push -u origin main
+error: src refspec main does not match any
+error: failed to push some refs to 'https://github.com/pinkimahato9814-afk/Pizza_sales_analysis.git'
+PS C:\Users\pinki\OneDrive\Desktop\Data_science(infosis)\Data\Data> git push -u origin main
+error: src refspec main does not match any
+error: failed to push some refs to 'https://github.com/pinkimahato9814-afk/Pizza_sales_analysis.git'
+PS C:\Users\pinki\OneDrive\Desktop\Data_science(infosis)\Data\Data> git remote -v
+origin  https://github.com/pinkimahato9814-afk/Pizza_sales_analysis.git (fetch)
+origin  https://github.com/pinkimahato9814-afk/Pizza_sales_analysis.git (push)
+PS C:\Users\pinki\OneDrive\Desktop\Data_science(infosis)\Data\Data> git push -u origin main
+error: src refspec main does not match any
+error: failed to push some refs to 'https://github.com/pinkimahato9814-afk/Pizza_sales_analysis.git'
+PS C:\Users\pinki\OneDrive\Desktop\Data_science(infosis)\Data\Data> git pull origin main --allow-unrelated-histories
+>> git push -u origin main
+fatal: couldn't find remote ref main
+error: src refspec main does not match any
+error: failed to push some refs to 'https://github.com/pinkimahato9814-afk/Pizza_sales_analysis.git'
+PS C:\Users\pinki\OneDrive\Desktop\Data_science(infosis)\Data\Data> git status
+>> git add .
+>> git commit -m "first commit"
+>> git branch -M main
+>> git push -u origin main
+On branch main
+
+No commits yet
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        Bigmart Sales Data.csv
+        Car_Sales.csv
+        Cardiovascular_Disease.csv
+        EMPLOYEES.xlsx
+        Employees.csv
+        Fraud Detection Dataset.csv
+        HR_Dataset Refresh.csv
+        Mall_Customers.csv
+        financial_loan_data.xlsx
+        gold_price_data.csv
+        heart_disease_prediction.csv
+        insurance.csv
+        pizza_sales.csv
+        pizza_sales_analysis.ipynb
+        student.csv
+        temperature.csv
+
+nothing added to commit but untracked files present (use "git add" to track)
+warning: in the working copy of 'pizza_sales_analysis.ipynb', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'temperature.csv', LF will be replaced by CRLF the next time Git touches it
+[main (root-commit) b80e51e] first commit
+ 16 files changed, 188452 insertions(+)
+ create mode 100644 Bigmart Sales Data.csv
+ create mode 100644 Car_Sales.csv
+ create mode 100644 Cardiovascular_Disease.csv
+ create mode 100644 EMPLOYEES.xlsx
+ create mode 100644 Employees.csv
+ create mode 100644 Fraud Detection Dataset.csv
+ create mode 100644 HR_Dataset Refresh.csv
+ create mode 100644 Mall_Customers.csv
+ create mode 100644 financial_loan_data.xlsx
+ create mode 100644 gold_price_data.csv
+ create mode 100644 heart_disease_prediction.csv
+ create mode 100644 insurance.csv
+ create mode 100644 pizza_sales.csv
+ create mode 100644 pizza_sales_analysis.ipynb
+ create mode 100644 student.csv
+ create mode 100644 temperature.csv
+Enumerating objects: 18, done.
+Counting objects: 100% (18/18), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (18/18), done.
+Writing objects: 100% (18/18), 8.19 MiB | 2.41 MiB/s, done.
+Total 18 (delta 0), reused 0 (delta 0), pack-reused 0 (from 0)
+To https://github.com/pinkimahato9814-afk/Pizza_sales_analysis.git
+ * [new branch]      main -> main
+branch 'main' set up to track 'origin/main'.
+PS C:\Users\pinki\OneDrive\Desktop\Data_science(infosis)\Data\Data> git rm "Bigmart Sales Data.csv"
+rm 'Bigmart Sales Data.csv'
+PS C:\Users\pinki\OneDrive\Desktop\Data_science(infosis)\Data\Data> git rm "Bigmart Sales Data.csv"
+>> git rm Car_Sales.csv
+>> git rm Cardiovascular_Disease.csv
+>> git rm EMPLOYEES.xlsx
+>> git rm Employees.csv
+>> git rm "Fraud Detection Dataset.csv"
+>> git rm "HR_Dataset Refresh.csv"
+>> git rm Mall_Customers.csv
+>> git rm financial_loan_data.xlsx
+>> git rm gold_price_data.csv
+>> git rm heart_disease_prediction.csv
+>> git rm insurance.csv
+>> git rm student.csv
+>> git rm temperature.csv
+fatal: pathspec 'Bigmart Sales Data.csv' did not match any files
+rm 'Car_Sales.csv'
+rm 'Cardiovascular_Disease.csv'
+rm 'EMPLOYEES.xlsx'
+rm 'Employees.csv'
+rm 'Fraud Detection Dataset.csv'
+rm 'HR_Dataset Refresh.csv'
+rm 'Mall_Customers.csv'
+rm 'financial_loan_data.xlsx'
+rm 'gold_price_data.csv'
+rm 'heart_disease_prediction.csv'
+rm 'insurance.csv'
+rm 'student.csv'
+rm 'temperature.csv'
+PS C:\Users\pinki\OneDrive\Desktop\Data_science(infosis)\Data\Data> git commit -m "Removed unnecessary datasets, keep only pizza project"
+[main b5073ef] Removed unnecessary datasets, keep only pizza project
+ 14 files changed, 139759 deletions(-)
+ delete mode 100644 Bigmart Sales Data.csv
+ delete mode 100644 Car_Sales.csv
+ delete mode 100644 Cardiovascular_Disease.csv
+ delete mode 100644 EMPLOYEES.xlsx
+ delete mode 100644 Employees.csv
+ delete mode 100644 Fraud Detection Dataset.csv
+ delete mode 100644 HR_Dataset Refresh.csv
+ delete mode 100644 Mall_Customers.csv
+ delete mode 100644 financial_loan_data.xlsx
+ delete mode 100644 gold_price_data.csv
+ delete mode 100644 heart_disease_prediction.csv
+ delete mode 100644 insurance.csv
+ delete mode 100644 student.csv
+ delete mode 100644 temperature.csv
+PS C:\Users\pinki\OneDrive\Desktop\Data_science(infosis)\Data\Data> git push
+Enumerating objects: 3, done.
+Counting objects: 100% (3/3), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (2/2), done.
+Writing objects: 100% (2/2), 256 bytes | 256.00 KiB/s, done.
+Total 2 (delta 1), reused 0 (delta 0), pack-reused 0 (from 0)
+remote: Resolving deltas: 100% (1/1), completed with 1 local object.
+To https://github.com/pinkimahato9814-afk/Pizza_sales_analysis.git
+   b80e51e..b5073ef  main -> main
