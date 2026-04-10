@@ -67,48 +67,60 @@ A line/bar chart showing sales by day of the week.
 Useful for staffing and operations planning. 
 
  **Question number 3**
-Hourly Trend 
 
+ 
+Hourly Trend 
 A line/bar chart showing sales by hour of the day. 
 Useful for staffing, ingredients, customer rush and operations planning 
 
  **Question number 4**
- 
+            
 Monthly Trend 
 A line chart depicting monthly revenue and orders. 
 Helps track seasonality and identify peak sales months. 
 Summer months show higher sales due to promotional campaigns. 
 
 **Question number 5**
-% of Sales by Category 
 
+
+% of Sales by Category 
 A bar chart representing revenue and quantity sold for each pizza category (Classic, Supreme, Veggie, Chicken). 
 Helps identify customer preferences. 
 Classic pizzas dominate sales, while Veggie has lower demand. 
 
 **Question number 6**
+
+
 % Sales by Pizza Size & Category 
 A bar/ donut chart comparing sales revenue and quantity by pizza size (S, M, L, XL). 
 Highlights demand distribution by size and assist inventory planning. 
 Large (L) pizzas contribute the highest revenue. 
 
  **Question number 7**
+
+ 
 Total Pizzas Sold by Pizza Category 
 Manage inventory by stocking ingredients used in the most popular categories. 
 Evaluate if low-performing categories should be optimized, redesigned, or discontinued. 
 
  **Question number 8**
+
+ 
 Top 5 Best-Selling Pizzas 
 A horizontal bar chart showing pizzas with the highest sales (by revenue, orders or quantity). 
 Supports promotional and menu strategy. 
 
 
  **Question number 9**
+
+ 
 Bottom 5 Least-Selling Pizzas 
 A horizontal bar chart of pizzas with the lowest sales. 
 Identifies products for improvement or possible removal from the menu. 
  
  **Question number 10**
+
+ 
 Business Questions Answered 
 What is the total revenue generated? 
 How many pizzas were sold in total? 
@@ -121,6 +133,7 @@ What are the sales trends by day, month, and time of day?
  
 **Deliverables **
 
+
 Jupyter Notebook with complete Python analysis. 
 Visualizations (bar charts, line charts, trend charts). 
 Business Requirements Document (BRD). 
@@ -128,6 +141,7 @@ Insights and recommendations for management.
 
  
 **Conclusion & Recommendations **
+
 
 The analysis provides a comprehensive view of pizza sales performance. Management can leverage these insights to: 
 Focus marketing on high-performing categories. 
