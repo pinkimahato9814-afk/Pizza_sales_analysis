@@ -62,7 +62,9 @@ Ingredient Analysis
 
 The pizza business aims to understand which ingredients are most frequently used across different pizza types. By identifying the most common ingredients, the store can 
 
-![Ingredients are most frequently used](https://raw.githubusercontent.com/pinkimahato9814-afk/Pizza_sales_analysis/main/frequency_of_pizza_ingredients.png)
+### 2. Frequency of Pizza Ingredients
+![Frequency of Pizza Ingredients](frequency_of_pizza_ingredients.png)
+
  
 **Question number 2**
 
@@ -76,6 +78,9 @@ Useful for staffing and operations planning.
 Hourly Trend 
 A line/bar chart showing sales by hour of the day. 
 Useful for staffing, ingredients, customer rush and operations planning 
+
+### 3. Hourly Sales Variation
+![Hourly Sales Variation](hourly_sales_varying.png)
 
  **Question number 4**
             
@@ -95,6 +100,9 @@ A bar chart representing revenue and quantity sold for each pizza category (Clas
 Helps identify customer preferences. 
 Classic pizzas dominate sales, while Veggie has lower demand. 
 
+### 6. Percentage of Pizza by Category
+![Percentage of Pizza by Category](percentage_of_pizza_by_category.png)
+
 **Question number 6**
 
 
@@ -102,6 +110,10 @@ Classic pizzas dominate sales, while Veggie has lower demand.
 A bar/ donut chart comparing sales revenue and quantity by pizza size (S, M, L, XL). 
 Highlights demand distribution by size and assist inventory planning. 
 Large (L) pizzas contribute the highest revenue. 
+
+### 7. Revenue Distribution by Pizza Size
+![Revenue Distribution by Pizza Size](revenue distribution by pizza size.png)
+
 
  **Question number 7**
 
@@ -116,6 +128,9 @@ Evaluate if low-performing categories should be optimized, redesigned, or discon
 Top 5 Best-Selling Pizzas 
 A horizontal bar chart showing pizzas with the highest sales (by revenue, orders or quantity). 
 Supports promotional and menu strategy. 
+
+### 4. Bottom 5 Least-Selling Pizzas
+![Bottom 5 Least-Selling Pizzas](least_5_selling_pizza.png)
 
 
  **Question number 9**
