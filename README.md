@@ -62,14 +62,14 @@ Ingredient Analysis
 
 The pizza business aims to understand which ingredients are most frequently used across different pizza types. By identifying the most common ingredients, the store can 
 
-![Ingredients are most frequently used](https://raw.githubusercontent.com/pinkimahato9814-afk/Pizza_sales_analysis/main/frequency _of_pizza_ingredients.png)
+![Ingredients are most frequently used](https://raw.githubusercontent.com/pinkimahato9814-afk/Pizza_sales_analysis/main/frequency_of_pizza_ingredients.png)
 
  
 **Question number 2**
 
 A line/bar chart showing sales by day of the week. 
 Useful for staffing and operations planning. 
-![Daily Sales Varying](https://raw.githubusercontent.com/pinkimahato9814-afk/Pizza_sales_analysis/main/daly_sales_varying.png)
+![Daily Sales Varying](https://raw.githubusercontent.com/pinkimahato9814afk/Pizza_sales_analysis/main/daly_sales_varying.png)
 
  **Question number 3**
 
