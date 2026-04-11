@@ -60,11 +60,15 @@ Analysis & Visualizations
 Ingredient Analysis 
 
 The pizza business aims to understand which ingredients are most frequently used across different pizza types. By identifying the most common ingredients, the store can 
+
+
  
 **Question number 2**
 
 A line/bar chart showing sales by day of the week. 
 Useful for staffing and operations planning. 
+
+![Daily Sales Varying](daily_sales_varying.png)
 
  **Question number 3**
 
