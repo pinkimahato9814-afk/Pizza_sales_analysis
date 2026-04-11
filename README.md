@@ -84,6 +84,9 @@ A line chart depicting monthly revenue and orders.
 Helps track seasonality and identify peak sales months. 
 Summer months show higher sales due to promotional campaigns. 
 
+### 5. Monthly Sales Variation
+![Monthly Sales Variation](monthly_sales_varying.png)
+
 **Question number 5**
 
 
