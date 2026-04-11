@@ -69,7 +69,7 @@ The pizza business aims to understand which ingredients are most frequently used
 
 A line/bar chart showing sales by day of the week. 
 Useful for staffing and operations planning. 
-![Daily Sales Varying](https://raw.githubusercontent.com/pinkimahato9814afk/Pizza_sales_analysis/main/daly_sales_varying.png)
+![Daily Sales Varying](https://raw.githubusercontent.com/pinkimahato-9814afk/Pizza_sales_analysis/main/daly_sales_varying.png)
 
  **Question number 3**
 
