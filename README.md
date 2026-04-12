@@ -125,7 +125,7 @@ Highlights demand distribution by size and assist inventory planning.
 Large (L) pizzas contribute the highest revenue. 
 
 
-   ### 6. Revenue Distribution by Pizza Size
+ ### 6. Revenue Distribution by Pizza Size
 ![Revenue Distribution by Pizza Size](sales%20percentage%20by%20pizza%20size%20and%20category.png)
 
 
@@ -150,7 +150,7 @@ A horizontal bar chart showing pizzas with the highest sales (by revenue, orders
 Supports promotional and menu strategy. 
 
 ### 8.Bottom 5 Least-Selling Pizzas
-![Bottom 5 Least-Selling Pizzas](least_5_selling_pizza.png)
+![Bottom 5 Least-Selling Pizzas](top_best_selling_pizza.png)
 
 
  **Question number 9**
@@ -160,6 +160,11 @@ Bottom 5 Least-Selling Pizzas
 A horizontal bar chart of pizzas with the lowest sales. 
 Identifies products for improvement or possible removal from the menu. 
  
+ ### 9.Bottom 5 Least-Selling Pizzas
+![Bottom 5 Least-Selling Pizzas](least_5_selling_pizza.png)
+
+
+
  **Question number 10**
 
  
