@@ -126,7 +126,7 @@ Large (L) pizzas contribute the highest revenue.
 
 
  ### 6. Revenue Distribution by Pizza Size
-![Revenue Distribution by Pizza Size](sales%20percentage%20by%20pizza%20size%20and%20category.png)
+![Revenue Distribution by Pizza Size](sales_percentace_by_pizza_size_and_category.png)
 
 
 
