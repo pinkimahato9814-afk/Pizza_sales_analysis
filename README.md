@@ -138,7 +138,7 @@ Manage inventory by stocking ingredients used in the most popular categories.
 Evaluate if low-performing categories should be optimized, redesigned, or discontinued. 
 
   ### 7. Percentage of Pizza by Category
-![Percentage of Pizza by Category](percentage_of_pizza_by_category.png)
+![Percentage of Pizza by Category](total_pizzas_sold_by_category.png)
 
 
 
