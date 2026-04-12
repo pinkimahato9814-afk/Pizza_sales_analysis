@@ -62,9 +62,9 @@ Ingredient Analysis
 
 The pizza business aims to understand which ingredients are most frequently used across different pizza types. By identifying the most common ingredients, the store can 
 
+
 ### 2. Frequency of Pizza Ingredients
 ![Frequency of Pizza Ingredients](frequency_of_pizza_ingredients.png)
-
  
 **Question number 2**
 
