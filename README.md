@@ -65,12 +65,17 @@ The pizza business aims to understand which ingredients are most frequently used
 
 ### 2. Frequency of Pizza Ingredients
 ![Frequency of Pizza Ingredients](https://raw.githubusercontent.com/pinkimahato9814-afk/Pizza_sales_analysis/main/frequency%20_of_pizza_ingredients.png)
+
+
+
  
 **Question number 2**
 
 A line/bar chart showing sales by day of the week. 
 Useful for staffing and operations planning. 
+
 ![Daily Sales Varying](https://raw.githubusercontent.com/pinkimahato9814-afk/Pizza_sales_analysis/main/daly_sales_varying.png)
+ 
 
  **Question number 3**
 
@@ -82,6 +87,9 @@ Useful for staffing, ingredients, customer rush and operations planning
 ### 3. Hourly Sales Variation
 ![Hourly Sales Variation](hourly_sales_varying.png)
 
+
+
+
  **Question number 4**
             
 Monthly Trend 
@@ -89,8 +97,10 @@ A line chart depicting monthly revenue and orders.
 Helps track seasonality and identify peak sales months. 
 Summer months show higher sales due to promotional campaigns. 
 
-### 5. Monthly Sales Variation
+### 4. Monthly Sales Variation
 ![Monthly Sales Variation](monthly_sales_varying.png)
+
+
 
 **Question number 5**
 
@@ -100,8 +110,9 @@ A bar chart representing revenue and quantity sold for each pizza category (Clas
 Helps identify customer preferences. 
 Classic pizzas dominate sales, while Veggie has lower demand. 
 
-### 6. Percentage of Pizza by Category
+### 5. Percentage of Pizza sales by Category
 ![Percentage of Pizza by Category](percentage_of_pizza_by_category.png)
+
 
 **Question number 6**
 
@@ -111,8 +122,9 @@ A bar/ donut chart comparing sales revenue and quantity by pizza size (S, M, L, 
 Highlights demand distribution by size and assist inventory planning. 
 Large (L) pizzas contribute the highest revenue. 
 
-### 7. Revenue Distribution by Pizza Size
+### 6. Revenue Distribution by Pizza Size
 ![Revenue Distribution by Pizza Size](revenue distribution by pizza size.png)
+
 
 
  **Question number 7**
@@ -121,6 +133,11 @@ Large (L) pizzas contribute the highest revenue.
 Total Pizzas Sold by Pizza Category 
 Manage inventory by stocking ingredients used in the most popular categories. 
 Evaluate if low-performing categories should be optimized, redesigned, or discontinued. 
+
+### 7. Percentage of Pizza by Category
+![Percentage of Pizza by Category](percentage_of_pizza_by_category.png)
+
+
 
  **Question number 8**
 
