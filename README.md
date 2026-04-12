@@ -149,7 +149,7 @@ Top 5 Best-Selling Pizzas
 A horizontal bar chart showing pizzas with the highest sales (by revenue, orders or quantity). 
 Supports promotional and menu strategy. 
 
-### 8.Bottom 5 Least-Selling Pizzas
+### 8.Top_5_best-Selling Pizzas
 ![Bottom 5 Least-Selling Pizzas](top_best_selling_pizza.png)
 
 
