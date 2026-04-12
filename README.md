@@ -114,6 +114,7 @@ Classic pizzas dominate sales, while Veggie has lower demand.
 ![Percentage of Pizza by Category](percentage_of_pizza_by_category.png)
 
 
+
 **Question number 6**
 
 
@@ -122,8 +123,9 @@ A bar/ donut chart comparing sales revenue and quantity by pizza size (S, M, L, 
 Highlights demand distribution by size and assist inventory planning. 
 Large (L) pizzas contribute the highest revenue. 
 
+
 ### 6. Revenue Distribution by Pizza Size
-![Revenue Distribution by Pizza Size](revenue distribution by pizza size.png)
+![Revenue Distribution by Pizza Size](revenue%20distribution%20by%20pizza%20size.png)
 
 
 
