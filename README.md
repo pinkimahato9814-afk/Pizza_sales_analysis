@@ -42,44 +42,46 @@ Provide visualization dashboards for effective decision-making.
 
 ### <mark>Question number 1 <mark>
 
-Key Performance Indicators (KPIs) 
+   Key Performance Indicators (KPIs) 
 
-Total Revenue = Sum of total_price 
+   Total Revenue = Sum of total_price 
 
-Total Pizzas Sold = Sum of quantity 
+   Total Pizzas Sold = Sum of quantity 
 
-Total Orders = Count of unique order_id 
+   Total Orders = Count of unique order_id 
 
-Average Order Value (AOV) = Total Revenue ÷ Total Orders 
+   Average Order Value (AOV) = Total Revenue ÷ Total Orders 
 
-Average Pizza per Order = Total Pizzas Sold ÷ Total Orders 
+   Average Pizza per Order = Total Pizzas Sold ÷ Total Orders 
 
  
-Analysis & Visualizations 
+## <mark>Analysis & Visualizations<mark> 
 
 
-Ingredient Analysis 
+### <mark>Ingredient Analysis<mark>
 
 The pizza business aims to understand which ingredients are most frequently used across different pizza types. By identifying the most common ingredients, the store can 
 
 
-### 2. Frequency of Pizza Ingredients
+  ###  Frequency of Pizza Ingredients
 ![Frequency of Pizza Ingredients](https://raw.githubusercontent.com/pinkimahato9814-afk/Pizza_sales_analysis/main/frequency%20_of_pizza_ingredients.png)
 
 
 
  
-### <mark>Question number  <mark>
+### <mark>Question number 2 <mark>
 
 A line/bar chart showing sales by day of the week. 
 Useful for staffing and operations planning. 
 
 ![Daily Sales Varying](https://raw.githubusercontent.com/pinkimahato9814-afk/Pizza_sales_analysis/main/daly_sales_varying.png)
- 
 
- **Question number 3**
+ Reports: Sales by day of the week
 
- 
+
+
+###<mark> Question number 3<mark>
+
 Hourly Trend 
 A line/bar chart showing sales by hour of the day. 
 Useful for staffing, ingredients, customer rush and operations planning 
