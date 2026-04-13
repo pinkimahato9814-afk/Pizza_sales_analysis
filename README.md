@@ -54,6 +54,13 @@ Provide visualization dashboards for effective decision-making.
 
    Average Pizza per Order = Total Pizzas Sold ÷ Total Orders 
 
+**KPI Calculated value**
+    Total Revenue: $817860.05
+    Total Pizzas Sold: 49574.qty
+    Total Orders: 21350
+    Average Order Value (AOV): $38.31
+    Average Pizza per Order: 2.32
+
  
 ## <mark>Analysis & Visualizations<mark> 
 
