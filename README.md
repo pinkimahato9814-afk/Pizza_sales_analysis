@@ -208,15 +208,35 @@ Identifies products for improvement or possible removal from the menu.
 Other low-performing pizzas include Spinach-based and Mediterranean varieties.
 These items may require menu optimization or promotional strategies.
 
- <mark>**Question number 10**<mark>
+## <mark>**Question number 10**<mark>
 
 Business Questions Answered 
+
 What is the total revenue generated? 
+
 How many pizzas were sold in total? 
+
 Which category and size of pizzas perform best? 
+
 Which pizzas are the top and bottom performers? 
+
 What is the average order value and average pizzas per order? 
+
 What are the sales trends by day, month, and time of day? 
+
+## <mark> Answer According to question<mark>
+ 
+The total revenue generated shows that the business is performing well overall, with higher earnings coming from peak days and popular pizza categories.
+
+A large number of pizzas were sold during the period, with the Classic category contributing the most to total sales.
+
+When it comes to performance, Classic pizzas are the most popular category, and Large-sized pizzas bring in the highest revenue, showing customer preference for bigger portions.
+
+The top-performing pizzas include Thai Chicken, Barbecue Chicken, and California Chicken, while pizzas like Brie Carre and Green Garden are among the least popular.
+
+On average, customers spend a decent amount per order and usually buy more than one pizza, which suggests that many orders are made for groups or families.
+
+Looking at sales trends, orders are higher on Fridays and weekends, peak during lunch and dinner hours, and also show some variation across months, with stronger sales around the middle of the year.
  
  
  
@@ -228,7 +248,18 @@ Visualizations (bar charts, line charts, trend charts).
 Business Requirements Document (BRD). 
 Insights and recommendations for management. 
 
+
+## <mark> Deliverables <mark> 
  
+A complete Jupyter Notebook containing data cleaning, analysis, and insights using Python.
+
+Clear and easy-to-understand visualizations, including bar charts, line charts, Pie charts and trend analysis.
+
+A well-structured Business Requirements Document (BRD) explaining the project objectives and approach.
+
+Key insights and practical recommendations that can help improve business decisions.
+
+
 **Conclusion & Recommendations **
 
 
@@ -237,6 +268,19 @@ Focus marketing on high-performing categories.
 Optimize the menu by reconsidering least-selling pizzas. 
 Plan inventory and staffing based on sales peaks. 
 Monitor KPIs regularly through dashboards for continuous improvement. 
+
+
+## <mark> conclusion and recomendation<mark>
+
+The analysis gives a clear understanding of how pizza sales are performing across different categories, sizes, and time periods. Based on these insights, a few practical steps can be taken to improve overall performance.
+
+The business can focus more on promoting high-performing categories to maximize revenue.
+
+Low-selling pizzas can be reviewed, improved, or replaced to make the menu more effective.
+
+Sales patterns can help in planning inventory and staff, especially during busy hours like lunch and dinner.
+
+It is also important to track key performance metrics regularly, using dashboards, to support better decision-making over time.
  
 
 
