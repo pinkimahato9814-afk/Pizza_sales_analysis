@@ -78,25 +78,31 @@ Useful for staffing and operations planning.
 
 ![Daily Sales Varying](https://raw.githubusercontent.com/pinkimahato9814-afk/Pizza_sales_analysis/main/daly_sales_varying.png)
 
- Reports: Sales by day of the week
+ <mark>Reports<mark>:-The chart illustrates the Sales gradually increase from Sunday to Friday.
+Friday records the highest revenue, indicating peak customer activity before weekends.
+Sunday shows the lowest sales, suggesting slower business at the start of the week.
 
 
 
-###<mark> Question number 3<mark>
+### <mark> Question number 3<mark>
 
-Hourly Trend 
+<mark>Hourly Trend<mark> 
 A line/bar chart showing sales by hour of the day. 
 Useful for staffing, ingredients, customer rush and operations planning 
 
 ### 3. Hourly Sales Variation
 ![Hourly Sales Variation](hourly_sales_varying.png)
 
+ <mark>Insight<mark>:- Sales peak during 12:00 PM – 1:00 PM (lunch time) and 6:00 PM – 8:00 PM (dinner time).
+Very low sales are observed in early morning and late night hours.
+This highlights strong demand during typical meal times.
 
 
 
- **Question number 4**
+
+<mark>**Question number 4**<mark>
             
-Monthly Trend 
+<mark>Monthly Trend<mark>
 A line chart depicting monthly revenue and orders. 
 Helps track seasonality and identify peak sales months. 
 Summer months show higher sales due to promotional campaigns. 
@@ -104,12 +110,16 @@ Summer months show higher sales due to promotional campaigns.
 ### 4. Monthly Sales Variation
 ![Monthly Sales Variation](monthly_sales_varying.png)
 
+<mark>Insight<mark>:- Sales fluctuate across months with peak performance around July–August.
+The lowest sales are observed in September and October.
+Indicates possible seasonal demand patterns.
 
 
-**Question number 5**
+<mark>**Question number 5**<mart>
 
 
 % of Sales by Category 
+
 A bar chart representing revenue and quantity sold for each pizza category (Classic, Supreme, Veggie, Chicken). 
 Helps identify customer preferences. 
 Classic pizzas dominate sales, while Veggie has lower demand. 
@@ -117,9 +127,12 @@ Classic pizzas dominate sales, while Veggie has lower demand.
 ### 5. Percentage of Pizza sales by Category
 ![Percentage of Pizza by Category](percentage_of_pizza_by_category.png)
 
+<mark>Insight<mark>:- Classic pizzas dominate sales (27%), making them the most preferred category.
+Chicken and Veggie categories contribute equally (~24% each).
+Supreme pizzas follow closely, indicating balanced category demand.
 
 
-**Question number 6**
+<mark>**Question number 6**<mark>
 
 
 % Sales by Pizza Size & Category 
@@ -129,12 +142,15 @@ Highlights demand distribution by size and assist inventory planning.
 Large (L) pizzas contribute the highest revenue. 
 
 
- ### 6. Revenue Distribution by Pizza Size
+ ### 6. Revenue Distribution by Pizza Size and category
 ![Revenue Distribution by Pizza Size](sales_percentace_by_pizza_size_and_category.png)
 
+<mark>Insight<mark>:-  Large (L) size pizzas contribute the highest sales across all categories.
+Medium (M) sizes show consistent demand.
+Small (S), XL, and XXL sizes have comparatively lower contributions.
+Suggests customers prefer larger portion sizes.
 
-
- **Question number 7**
+ <mark>**Question number 7**<mark>
 
  
 Total Pizzas Sold by Pizza Category 
@@ -145,6 +161,9 @@ Evaluate if low-performing categories should be optimized, redesigned, or discon
 ![Percentage of Pizza by Category](total_pizzas_sold_by_category.png)
 
 
+<mark>Insight<mark>:- Classic category has the highest number of pizzas sold.
+Supreme and Veggie categories show moderate sales.
+Chicken category follows closely, maintaining steady demand.
 
  **Question number 8**
 
@@ -156,22 +175,26 @@ Supports promotional and menu strategy.
 ### 8.Top_5_best-Selling Pizzas
 ![Bottom 5 Least-Selling Pizzas](top_best_selling_pizza.png)
 
-
- **Question number 9**
+<mark>Insight<mark>:- Thai Chicken Pizza is the top-selling item.
+Barbecue Chicken and California Chicken pizzas also perform strongly.
+Chicken-based pizzas dominate the top-selling list, indicating high customer preference.
+ 
+ <mark>**Question number 9**<mark>
 
  
-Bottom 5 Least-Selling Pizzas 
+ Bottom 5 Least-Selling Pizzas 
 A horizontal bar chart of pizzas with the lowest sales. 
 Identifies products for improvement or possible removal from the menu. 
  
  ### 9.Bottom 5 Least-Selling Pizzas
 ![Bottom 5 Least-Selling Pizzas](least_5_selling_pizza.png)
 
+<mark>Insight<mark>:- The Brie Carre Pizza has the lowest sales among all.
+Other low-performing pizzas include Spinach-based and Mediterranean varieties.
+These items may require menu optimization or promotional strategies.
 
+ <mark>**Question number 10**<mark>
 
- **Question number 10**
-
- 
 Business Questions Answered 
 What is the total revenue generated? 
 How many pizzas were sold in total? 
