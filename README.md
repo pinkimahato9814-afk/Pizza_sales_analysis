@@ -66,6 +66,8 @@ The pizza business aims to understand which ingredients are most frequently used
   ###  Frequency of Pizza Ingredients
 ![Frequency of Pizza Ingredients](https://raw.githubusercontent.com/pinkimahato9814-afk/Pizza_sales_analysis/main/frequency%20_of_pizza_ingredients.png)
 
+<mark>Reports<mark> :- The chart illustrates the frequency of different pizza ingredients, showing that garlic and tomatoes are the most commonly used, followed by red onions and red peppers. Ingredients like mozzarella cheese, pepperoni, and spinach have moderate usage, while chicken and capocollo are used less frequently. Overall, the data highlights a strong preference for vegetable-based and traditional pizza ingredients.
+
 
 
  
