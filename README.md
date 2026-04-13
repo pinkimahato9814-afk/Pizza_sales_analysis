@@ -1,6 +1,6 @@
- # *Business Requirements Document (BRD) *
+ # **Business Requirements Document (BRD) **
 
-## *Project: Pizza Sales Analysis*
+## **Project: Pizza Sales Analysis**
 
 ### **Project Overview **
 new change
