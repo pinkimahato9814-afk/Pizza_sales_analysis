@@ -58,7 +58,7 @@ Provide visualization dashboards for effective decision-making.
 ## <mark>Analysis & Visualizations<mark> 
 
 
-### <mark>Ingredient Analysis<mark>
+### Ingredient Analysis
 
 The pizza business aims to understand which ingredients are most frequently used across different pizza types. By identifying the most common ingredients, the store can 
 
@@ -73,6 +73,7 @@ The pizza business aims to understand which ingredients are most frequently used
  
 ### <mark>Question number 2 <mark>
 
+
 A line/bar chart showing sales by day of the week. 
 Useful for staffing and operations planning. 
 
@@ -86,7 +87,8 @@ Sunday shows the lowest sales, suggesting slower business at the start of the we
 
 ### <mark> Question number 3<mark>
 
-<mark>Hourly Trend<mark> 
+**Hourly Trend**
+
 A line/bar chart showing sales by hour of the day. 
 Useful for staffing, ingredients, customer rush and operations planning 
 
@@ -102,7 +104,8 @@ This highlights strong demand during typical meal times.
 
 <mark>**Question number 4**<mark>
             
-<mark>Monthly Trend<mark>
+**Monthly Trend**
+
 A line chart depicting monthly revenue and orders. 
 Helps track seasonality and identify peak sales months. 
 Summer months show higher sales due to promotional campaigns. 
