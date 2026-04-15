@@ -1,5 +1,6 @@
  # <mark>Business Requirements Document (BRD)</mark>
-
+# **OUR  OVERAL PROJECT DASHBOARD** 
+![Overall dashboard of pizza sales analysis](powerBI_dasboard.png)
 ## <mark>Project: Pizza Sales Analysis</mark>
 
 ### <mark>Project Overview<mark>
